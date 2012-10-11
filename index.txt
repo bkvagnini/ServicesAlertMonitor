@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> This is a test of using GitHub as a hosting service</title>
+</head>
+<body>
+<h1> YAY!!</h1>
+<p>This is a test of using GitHub as a hosting service</p>
+<h4> It worked...</h4>
+</body>
+</html>
